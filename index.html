@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <div class="container">
+        <h1>To-Do List</h1>
+        <div class="row">
+            <div class="form">
+                <input type="text" placeholder="What do you think about?">
+            </div>
+            <div class="btn">
+                <button type="submit">Add Task</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <h1>Tasks: <span></span></h1> 
+       <div id="tasks">
+        <div class="row">
+            <div hidden class="task">
+            <input  type="text"  readonly>
+            </div>
+            <div class="action">
+                <button hidden class="edit" data-task-id="${element.id}"></button>
+                <button hidden class="danger"></button>
+            </div>
+        </div>
+   
+    </div>
+    </div>
+
+    <script src="./js/main.js"></script>
+</body>
+</html>
