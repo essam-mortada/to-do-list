@@ -18,7 +18,7 @@ body{
     text-align: center;
     margin-top: 40px;
     font-size: 50px;
-    font-family: "Kristen ITC";
+    font-family: monospace;
 }
 .row{
     display: flex;
@@ -38,7 +38,7 @@ body{
     background-color: #ff5400;
     padding: 10px 10px;
     border-radius: 20px;
-    font-family: "Kristen ITC";
+    font-family: monospace;
     font-weight: bold;
 
 
@@ -49,7 +49,7 @@ body{
     padding-left: 15px;
     font-size: 15px;
     font-weight: bold;
-    font-family: "Kristen ITC";
+    font-family: monospace;
 
 }
 .btn{
@@ -61,7 +61,7 @@ body{
     border-radius: 20px;
     cursor: pointer;
     background-color: #ff5400;
-    font-family: cursive;
+    font-family:monospace;
     font-weight: bold;
     transition: all 0.5s;
 }
@@ -78,7 +78,7 @@ body{
     background-color: chartreuse;
     color: #201e1f;
     font-weight: bold;
-    font-family: "Kristen ITC";
+    font-family: monospace;
     cursor: pointer;
     padding: 10px 15px;
     border-radius: 10px;
@@ -91,7 +91,7 @@ body{
     background-color:crimson;
     color: #201e1f;
     font-weight: bold;
-    font-family: cursive;
+    font-family: monospace;
     cursor: pointer;
     padding: 10px 15px;
     border-radius: 10px;
@@ -114,7 +114,7 @@ body{
     background-color: transparent;
     color: #ff5400;
     padding: 10px 10px;
-    font-family: "Kristen ITC";
+    font-family:monospace;
     font-weight: bold;
     border: none;
     font-size: 30px;
