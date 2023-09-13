@@ -18,7 +18,7 @@ body{
     text-align: center;
     margin-top: 40px;
     font-size: 50px;
-    font-family: cursive;
+    font-family: "Kristen ITC";
 }
 .row{
     display: flex;
@@ -38,7 +38,7 @@ body{
     background-color: #ff5400;
     padding: 10px 10px;
     border-radius: 20px;
-    font-family: cursive;
+    font-family: "Kristen ITC";
     font-weight: bold;
 
 
@@ -49,7 +49,7 @@ body{
     padding-left: 15px;
     font-size: 15px;
     font-weight: bold;
-    font-family: cursive;
+    font-family: "Kristen ITC";
 
 }
 .btn{
@@ -78,7 +78,7 @@ body{
     background-color: chartreuse;
     color: #201e1f;
     font-weight: bold;
-    font-family: cursive;
+    font-family: "Kristen ITC";
     cursor: pointer;
     padding: 10px 15px;
     border-radius: 10px;
@@ -114,7 +114,7 @@ body{
     background-color: transparent;
     color: #ff5400;
     padding: 10px 10px;
-    font-family: cursive;
+    font-family: "Kristen ITC";
     font-weight: bold;
     border: none;
     font-size: 30px;
